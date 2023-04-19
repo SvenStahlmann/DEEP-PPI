@@ -35,15 +35,14 @@ If you find this reseach interesting and have questions please reach out to me (
 
 ## Getting Started
 
-This project is basd on Python 3.11 and built using [Poetry](https://python-poetry.org/)].
+This project is basd on Python 3.11 and built using [Poetry](https://python-poetry.org/).
 ### Prerequisites
 
 Please install Poetry and clone the github repository. Poetry will handle the creation of a vitual enviroment and the installation of all dependencies.
 
 ### Installation
 
-Coming soon
-
+To install the 
 ## Usage
 
 Coming soon
