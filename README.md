@@ -41,13 +41,13 @@ Please install Poetry and clone the github repository. Poetry will handle the cr
 ### Installation
 
 To install the dependencies using poetry 
-'''
+`
 poetry install
-'''
+`
 in the directory of the repository
 
 ## Usage
 
-After installation use 'poetry run python main.py' to run the main.py file. 
+After installation use `poetry run python main.py` to run the main.py file. 
 
-You can activate the virtual env using 'poetry shell'. If you want to use GPU acceleration please install [pytorch](https://pytorch.org/get-started/locally/ ) in this enviroment.
+You can activate the virtual env using `poetry shell`. If you want to use GPU acceleration please install [pytorch](https://pytorch.org/get-started/locally/ ) in this enviroment.
