@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="DNA_helix.png" alt="Logo" width="340" height="180" style="  border-radius: 12px;">
+    <img src="DNA_helix.png" alt="Logo" width="340" height="180" style="border-radius: 50%">
   </a>
 
 <h3 align="center">DEEP-PPI</h3>
