@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="DNA_helix.png" alt="Logo" width="380" height="180">
+    <img src="DNA_helix.png" alt="Logo" width="340" height="180">
   </a>
 
 <h3 align="center">DEEP-PPI</h3>
@@ -33,8 +33,6 @@ The goal is to provide accurate predictions that can be used to study the comple
 The models are based in laege Language Models as encoder.
 If you find this reseach interesting and have questions please reach out to me (e.g. through github issues).
 
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 Coming soon
@@ -43,21 +41,12 @@ Coming soon
 
 Coming soon
 
-
 ### Installation
 
 Coming soon
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 Coming soon
 
-
-
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
