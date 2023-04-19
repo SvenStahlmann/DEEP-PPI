@@ -50,6 +50,13 @@ You can activate the virtual env using `poetry shell`. If you want to use GPU ac
 
 ## Usage
 
-After installation use `poetry run python main.py` to run the main.py file. 
+After installation use `poetry run python main.py` to run the main.py file.
+
+## Models
+
+### BaseLineModel
+
+The model uses a pretrained encoder model (ESM) to transform the two protein sequences into embeddings. The resulting embeddings are concatinated and fed into a head. The head is a 2 layer deep fully connected network. Softmax is applied to the logits of the head to generate the probabilites of interaction between the two input proteins.
+
 
 
