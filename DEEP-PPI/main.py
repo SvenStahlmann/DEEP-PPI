@@ -6,8 +6,8 @@ from sklearn.model_selection import train_test_split
 from torch.utils.data import DataLoader
 from transformers import AutoTokenizer
 
-from prot2prot.data import CustomStarDataset
-from prot2prot.model import BaseLineModel
+from data import CustomStarDataset
+from model import BaseLineModel
 
 
 def read_cmd_line_args():

@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "prot2prot"
+name = "DEEP-PPI"
 version = "0.1.0"
 description = ""
 authors = ["SvenStahlmann <stahlmann.sven.de@gmail.com>"]
