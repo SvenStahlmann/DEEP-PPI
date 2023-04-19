@@ -30,7 +30,7 @@
 
 This project aims to develop and train deep learning models to predict the interaction of proteins by using protein sequences as inputs. 
 The goal is to provide accurate predictions that can be used to study the complex interactions between proteins. 
-The models are based in laege Language Models as encoder.
+The models are based on large Language Models as encoders.
 If you find this reseach interesting and have questions please reach out to me (e.g. through github issues).
 
 ## Getting Started
