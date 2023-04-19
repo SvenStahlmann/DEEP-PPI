@@ -12,9 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/SvenStahlmann/DEEP-PPI">
-    <kbd>
-    <img src="DNA_helix.png" alt="Logo" width="340" height="180" style="border-radius: 12px;">
-    </kbd>
+    <img src="DNA_helix.png" alt="Logo" width="340" height="180">
   </a>
 
 <h3 align="center">DEEP-PPI</h3>
@@ -24,8 +22,6 @@
     <br />
   </p>
 </div>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -44,12 +40,14 @@ Please install Poetry and clone the github repository. Poetry will handle the cr
 
 ### Installation
 
-To install the 
+To install the dependencies using poetry 
+'''
+poetry install
+'''
+in the directory of the repository
+
 ## Usage
 
-Coming soon
+After installation use 'poetry run python main.py' to run the main.py file. 
 
-## Acknowledgments
-
-
-
+You can activate the virtual env using 'poetry shell'. If you want to use GPU acceleration please install [pytorch](https://pytorch.org/get-started/locally/ ) in this enviroment.
