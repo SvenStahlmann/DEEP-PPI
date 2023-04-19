@@ -1,0 +1,65 @@
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="Goldilocks_a_DNA_helix_with_glowing_molecules_and_proteins_8dbdb911-87ed-4a53-bad9-95e3302abab9.png" alt="Logo" width="380" height="180">
+  </a>
+
+<h3 align="center">DEEP-PPI</h3>
+
+  <p align="center">
+    Protein-Protein Interaction using deep learning models 
+    <br />
+  </p>
+</div>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This project aims to develop and train deep learning models to predict the interaction of proteins by using protein sequences as inputs. 
+The goal is to provide accurate predictions that can be used to study the complex interactions between proteins. 
+The models are based in laege Language Models as encoder.
+If you find this reseach interesting and have questions please reach out to me (e.g. through github issues).
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+Coming soon
+
+### Prerequisites
+
+Coming soon
+
+
+### Installation
+
+Coming soon
+
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Coming soon
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
