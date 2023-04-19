@@ -35,11 +35,10 @@ If you find this reseach interesting and have questions please reach out to me (
 
 ## Getting Started
 
-Coming soon
-
+This project is basd on Python 3.11 and built using [Poetry](https://python-poetry.org/)].
 ### Prerequisites
 
-Coming soon
+Please install Poetry and clone the github repository. Poetry will handle the creation of a vitual enviroment and the installation of all dependencies.
 
 ### Installation
 
@@ -50,3 +49,6 @@ Coming soon
 Coming soon
 
 ## Acknowledgments
+
+
+
