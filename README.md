@@ -11,8 +11,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="DNA_helix.png" alt="Logo" width="340" height="180" style="border-radius: 50%">
+  <a href="https://github.com/SvenStahlmann/DEEP-PPI">
+    <img src="DNA_helix.png" alt="Logo" width="340" height="180" style="max-width: 100%;border-radius: 12px;">
   </a>
 
 <h3 align="center">DEEP-PPI</h3>
