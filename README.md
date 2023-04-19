@@ -12,8 +12,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/SvenStahlmann/DEEP-PPI">
-    <div style="max-width: 100%;border-radius: 12px;">
-    <img src="DNA_helix.png" alt="Logo" width="340" height="180" >
+    <div >
+    <img src="DNA_helix.png" alt="Logo" width="340" height="180" style="border-radius: 12px;">
     </div>
   </a>
 
