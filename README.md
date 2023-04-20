@@ -44,7 +44,7 @@ To install the dependencies using poetry
 `
 poetry install
 `
-in the directory of the repository.
+in the directory of the repository. If this fails on our LINIX machines try `export PYTHON_KEYRING_BACKEND=keyring.backends.null.Keyring`.
 
 You can activate the virtual env using `poetry shell`. If you want to use GPU acceleration please install [pytorch](https://pytorch.org/get-started/locally/ ) in this enviroment.
 
